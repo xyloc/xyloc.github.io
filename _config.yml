@@ -33,7 +33,12 @@ texture:
     #github:  thelehhman
     #linkedIn: in/jung-sunggoo-82755b94/
     rss: rss
- 
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/ 
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
