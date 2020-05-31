@@ -22,17 +22,17 @@ texture:
   showNav: true
   showPicker: false
   navigation:
-  - title: Resume
-    url: "/resume"
+  #- title: Resume
+  #  url: "/resume"
   - title: Home
     url: /
     
   # generate social links in footer
-  #social_links:
-    #twitter: thelehhman
-    #github:  thelehhman
+  social_links:
+    github:  xyloc
     #linkedIn: in/jung-sunggoo-82755b94/
     rss: rss
+
 category_archive:
   type: liquid
   path: /categories/
