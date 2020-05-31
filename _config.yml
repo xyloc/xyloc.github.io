@@ -19,8 +19,12 @@ texture:
   tagline: Developer. Robotics Engineer
   date_format: "%b %-d, %Y"
   style: blue
-  showNav: false
-  showPicker: true
+  showNav: true
+  showPicker: false
+
+  navigation:
+	-title: Resume
+	-url: "/resume"
 
   # generate social links in footer
   #social_links:
