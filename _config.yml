@@ -21,7 +21,6 @@ texture:
   style: blue
   showNav: true
   showPicker: false
-
   navigation:
     - title: Resume
       url: "/resume"
