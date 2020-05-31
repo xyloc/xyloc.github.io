@@ -2,6 +2,7 @@
 layout: post
 title:  "Eigen을 알아보자"
 date:   2020-05-31 21:00:00 +0900
+categories: Eigen
 ---
 
 오늘의 블로그
