@@ -23,10 +23,10 @@ texture:
   showPicker: true
 
   # generate social links in footer
-  social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+  #social_links:
+    #twitter: thelehhman
+    #github:  thelehhman
+    #linkedIn: in/jung-sunggoo-82755b94/
     rss: rss
  
 
