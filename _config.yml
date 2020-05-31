@@ -24,6 +24,8 @@ texture:
   navigation:
   - title: Resume
     url: "/resume"
+  - title: Lists
+    url: "/_posts"
 
   # generate social links in footer
   #social_links:
